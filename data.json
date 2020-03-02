@@ -1,0 +1,9 @@
+{
+    "basics":{
+        "name":"Manju",
+        "role":"Student",
+        "email": "thimmisettymanjusree2001@gmail.com",
+        "mobile":"+91 5665657676",
+        "education":[{"degree":"SSC","cgpa":10},{"degree":"Inter","perc":98},{"degree":"BTech","cgpa":9.4}]
+    }
+}
